@@ -1,0 +1,7 @@
+- Hello, I'm Uncommon Windmill
+- I've been interested in coding for quite a while
+- I've finally started to learn
+- Right now I know HTML and CSS
+- I'm learning Javascript now
+- That's all
+- Goodbye :)
